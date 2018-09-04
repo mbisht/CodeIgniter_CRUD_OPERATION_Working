@@ -1,0 +1,21 @@
+routes.php file-
+1) $route['default_controller'] = 'employee/index';
+Description- Controller- Employee.php, Model- Employee_m.php, View-> employee folder- index.php and layout folder- header and footer.php, assets folder-> css, fronts,js
+
+Jquery ajax crud with codeigniter
+a) create model
+b) load  jquery library
+c) ajax use
+d) validate form
+e) bootstrap use
+
+
+2) $route['blogs'] = 'blog/index';
+Description- Controller- Blog.php, Model- Blog_m.php, View-> blog folder- index.php, add.php, edit.php and layout folder- header and footer.php, assets folder-> css, fronts,js
+
+simple form action use, href,  validation  crud with codeigniter
+
+*******************************************************************************************************************************************
+Form description-
+1) id,
+2) description
